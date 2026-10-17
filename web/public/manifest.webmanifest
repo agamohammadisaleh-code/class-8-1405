@@ -1,0 +1,10 @@
+{
+  "name": "مربی هوشمند پایه هشتم",
+  "short_name": "مربی هشتم",
+  "start_url": "/",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "fa",
+  "theme_color": "#0f766e",
+  "background_color": "#f8fafc"
+}

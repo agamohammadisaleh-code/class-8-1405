@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.db
+.env
+node_modules/
+dist/
+.dart_tool/
+build/
+*.log
+release/
+build_payload/
+build_payload.tar.gz
+build_tmp/
+server/web_dist/
+*.spec
+server/.pytest_cache/
+tsconfig.tsbuildinfo

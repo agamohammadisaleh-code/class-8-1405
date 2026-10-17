@@ -1,0 +1,13 @@
+fastapi==0.143.3
+uvicorn[standard]
+sqlalchemy>=2.0
+pydantic>=2.0
+pydantic-settings
+python-jose[cryptography]
+bcrypt
+python-multipart
+email-validator
+pytest
+httpx
+# برای PostgreSQL در محیط تولید (اختیاری):
+# psycopg2-binary
